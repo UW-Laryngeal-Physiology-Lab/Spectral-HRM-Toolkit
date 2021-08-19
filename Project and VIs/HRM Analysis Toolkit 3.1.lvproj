@@ -108,8 +108,8 @@
 			</Item>
 		</Item>
 		<Item Name="Main Menu 3.1.vi" Type="VI" URL="../Main Menu 3.1.vi"/>
-		<Item Name="Requirments.txt" Type="Document" URL="../Requirments.txt"/>
 		<Item Name="SPARC Settings.txt" Type="Document" URL="../SPARC Settings.txt"/>
+		<Item Name="Program Requirments.txt" Type="Document" URL="../Program Requirments.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced Plotting Toolkit.lvlib" Type="Library" URL="/&lt;vilib&gt;/Heliosphere Research LLC/Advanced Plotting Toolkit/Advanced Plotting Toolkit.lvlib"/>
